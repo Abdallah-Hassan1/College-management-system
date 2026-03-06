@@ -1,4 +1,4 @@
-![image]([https://github.com/Abdallah-Hassan1/Automated-fertilizer-dispenser/assets/64805908/1757bf3f-62c5-4ab6-894d-1cb5ccef5fc3](https://github.com/user-attachments/assets/35593039-f836-439f-8abf-257b1da12e76))
+
 ## Screenshots :camera:
 
 <details>
