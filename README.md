@@ -1,3 +1,5 @@
+<img width="1910" height="957" alt="college-management-system" src="https://github.com/user-attachments/assets/35593039-f836-439f-8abf-257b1da12e76" />
+
 ## Screenshots :camera:
 
 <details>
