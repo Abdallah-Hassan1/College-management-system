@@ -1,4 +1,3 @@
-<!-- project image: https://github.com/user-attachments/assets/49fe609e-4938-4bbc-a2da-484892bfdebd -->
 ## Screenshots :camera:
 
 <details>
