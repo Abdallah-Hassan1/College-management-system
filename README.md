@@ -1,4 +1,4 @@
-![image]([https://github.com/user-attachments/assets/49fe609e-4938-4bbc-a2da-484892bfdebd)
+![image]([https://github.com/user-attachments/assets/91fc5d48-8d88-4183-b26b-15f4f0873bad)
 ## Screenshots :camera:
 
 <details>
